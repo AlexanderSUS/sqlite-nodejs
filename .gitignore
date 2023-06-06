@@ -1,1 +1,4 @@
 node_modules
+
+# database file
+fish.db
